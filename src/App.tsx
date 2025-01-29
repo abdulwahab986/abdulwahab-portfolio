@@ -191,7 +191,6 @@ function App() {
                   <li className="hover:text-white transition-colors">Test Plan Creation</li>
                 </ul>
               </div>
-
               <div className="bg-gray-900 rounded-2xl shadow-lg p-8 hover:transform hover:scale-105 transition-all duration-300">
                 <div className="flex items-center mb-4">
                   <Terminal className="w-6 h-6 text-gray-300 mr-3" />
