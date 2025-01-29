@@ -199,7 +199,7 @@ function App() {
                 <ul className="space-y-2 text-gray-400">
                   <li className="hover:text-white transition-colors">PlayWright</li>
                   <li className="hover:text-white transition-colors">Selenium</li>
-                  <li className="hover:text-white transition-colors">Check My Links, Load Focus, WhatFont, Fake Filler, Page Ruler, TestCase Studio</li>
+                  <li className="hover:text-white transition-colors">Extensions For Manual Testing (Check My Links, Load Focus, WhatFont, Fake Filler, Page Ruler, TestCase Studio)</li>
                   <li className="hover:text-white transition-colors">Jira</li>
                   <li className="hover:text-white transition-colors">Notion</li>
                   <li className="hover:text-white transition-colors">Python</li>
