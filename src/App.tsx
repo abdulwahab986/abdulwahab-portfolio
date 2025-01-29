@@ -200,6 +200,12 @@ function App() {
                 <ul className="space-y-2 text-gray-400">
                   <li className="hover:text-white transition-colors">PlayWright</li>
                   <li className="hover:text-white transition-colors">Selenium</li>
+                  <li className="hover:text-white transition-colors">Check My Links</li>
+                  <li className="hover:text-white transition-colors">Fake Filler</li>
+                  <li className="hover:text-white transition-colors">Page Ruler</li>
+                  <li className="hover:text-white transition-colors">TestCase Studio</li>
+                  <li className="hover:text-white transition-colors">Load Focus</li>
+                  <li className="hover:text-white transition-colors">WhatFont</li>
                   <li className="hover:text-white transition-colors">Jira</li>
                   <li className="hover:text-white transition-colors">Notion</li>
                   <li className="hover:text-white transition-colors">Agile Methodologies</li>
