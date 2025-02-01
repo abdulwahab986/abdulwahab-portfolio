@@ -26,7 +26,7 @@ function App() {
         />
       </div>
       <h1 className="name-title text-5xl md:text-6xl font-bold mb-6 transition-all duration-300">Abdul Wahab</h1>
-      <h2 className="text-3xl md:text-4xl font-bold mb-4 hover:text-gray-300 transition-colors">QA Engineer & Software Developer</h2>
+      <h2 className="text-3xl md:text-4xl font-bold mb-4 hover:text-gray-300 transition-colors">Software Engineer</h2>
       <div className="flex items-center justify-center mb-8 text-gray-300">
         <MapPin className="w-5 h-5 mr-2" />
         <span className="hover:text-white transition-colors">Karachi, Pakistan</span>
